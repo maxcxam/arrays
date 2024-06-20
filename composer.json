@@ -2,6 +2,7 @@
     "name": "maxcxam/arrays",
     "description": "A small collection of iterable types",
     "type": "library",
+    "version": "1",
     "require": {
     },
     "require-dev": {
