@@ -1,0 +1,21 @@
+{
+    "name": "maxcxam/arrays",
+    "type": "library",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "11.3.x-dev"
+    },
+    "license": "GPL3",
+    "autoload": {
+        "psr-4": {
+            "Maxcxam\\Arrays\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxcxam"
+        }
+    ],
+    "minimum-stability": "dev"
+}
